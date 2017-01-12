@@ -1,0 +1,25 @@
+.item {
+	padding: 0;
+}
+.comment {
+    font-size: 16px;
+    color: #666;
+    line-height: 25px;
+    margin: 4px 6px;
+    height: 50px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.textarea {
+	margin: 20px 0;
+	width: 90%; 
+	height: 200px;
+	border: solid 1px #ccc;
+}
+.input-form {
+	width: 100%;
+	text-align: center;
+}
+.button {
+	width: 90%;
+}
